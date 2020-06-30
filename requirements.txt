@@ -1,7 +1,7 @@
-numpy == ?
-pandas == ?
-matplotlib == ?
-tensorflow == ?
-sklearn == ?
-seaborn == ?
-Python == 3.7
+numpy == 1.18.*
+pandas == 1.0.*
+matplotlib == 3.2.*
+tensorflow >= 2.0.0
+sklearn == 0.22.*
+seaborn == 0.10.*
+Python == 3.6.*
